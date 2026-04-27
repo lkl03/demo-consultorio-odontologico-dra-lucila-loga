@@ -1,2 +1,7 @@
-# demo-consultorio-odontologico-dra-lucila-loga
-Demo web para Consultorio Odontológico Dra. Lucila Logaldo — diseñada por eterlab.
+# Consultorio Odontológico Dra. Lucila Logaldo
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
